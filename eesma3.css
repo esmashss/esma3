@@ -1,0 +1,31 @@
+.parent{
+  text-align: right;
+  color: rgb(0, 0, 0);
+  width: 100vw;
+  height: 40px;
+}
+.parent2{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://www.se.com/ww/en/assets/v2/564/media/230667/900/709934422-Buildings-Facts-IC-1920x1080.jpg);
+  width: 100vw;
+  height: 600px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  color: beige;
+}
+h2{
+  color: beige;
+}
+button{
+  border-radius: 0px;
+  width: 100px;
+  height: 50px;
+  color: white;
+  background-color: coral;
+}
